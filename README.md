@@ -7,7 +7,7 @@ This is a React phonebook application.
 # Demo
 
 Here is a working live demo:
-https://natalia-nowak.github.io/goit-react-hw-02-feedback/
+https://natalia-nowak.github.io/goit-react-hw-04-feedback/
 
 # Setup
 
