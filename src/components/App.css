@@ -1,0 +1,8 @@
+.wrapper {
+  padding: 50px;
+}
+
+.buttons-wrapper {
+  display: flex;
+  gap: 30px;
+}
