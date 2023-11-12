@@ -10,3 +10,8 @@ export default function FeedbackOptions({ onLeaveFeedback, option }) {
     </button>
   );
 }
+
+FeedbackOptions.propTypes = {
+  onLeaveFeedback: PropTypes.string,
+  option: PropTypes.string,
+};
