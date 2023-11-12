@@ -1,6 +1,6 @@
 # React Giving Feedback App
 
-This is a React phonebook application.
+This is a React feedback application.
 
 ![Screenshot form application](./assets/Feedback.png)
 
